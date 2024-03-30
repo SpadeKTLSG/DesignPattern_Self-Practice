@@ -1,7 +1,9 @@
 # DesignPattern_Self-Practice
 
-设计模式个人练习
+设计模式个人练习, 练习主要来自于 [书栈网DesignPattern](https://www.bookstack.cn/read/design-pattern-java/README.md)
 
-个人练习保存, 便于日后复盘
+包含借鉴内容, 不一一列出, 统一表示感谢
 
-细则日后补充
+暂时已完结
+
+
