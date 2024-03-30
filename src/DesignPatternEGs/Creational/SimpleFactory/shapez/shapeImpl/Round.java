@@ -1,4 +1,4 @@
-package DesignPatternEGs.Creational.SimpleFactory.shapez.ShapeImpl;
+package DesignPatternEGs.Creational.SimpleFactory.shapez.shapeImpl;
 
 import DesignPatternEGs.Creational.SimpleFactory.shapez.Product;
 
